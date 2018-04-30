@@ -43,6 +43,14 @@ counterexamples in mathematics*
 [MR 92b:00003](http://www.ams.org/mathscinet-getitem?mr=92b%3A00003), an expanded version
 covering fields other than analysis.)
 
+#### Pugh, *Real Mathematical Analysis*
+[MR3380933](https://mathscinet.ams.org/mathscinet-getitem?mr=3380933)
+
+A worthy challenger to baby Rudin. The book does what Rudin is often criticized for: Providing 
+excellent motivation. It's a gorgeous, well-written (sometimes even funny) book that provides 
+great visual intuition while remaining rigorous and concise. Furthermore, it has plenty of 
+wonderful exercises ranging in all levels of difficulty. 
+
 ### Intermediate level: normed spaces, Lebesgue integrationK)</H3>
 
 #### Kolmogorov/Fomin, *Introductory real analysis*
